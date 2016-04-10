@@ -1,0 +1,3 @@
+# funsandbox
+
+Scalaz playground
