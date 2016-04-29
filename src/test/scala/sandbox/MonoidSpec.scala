@@ -1,3 +1,5 @@
+package sandbox
+
 import org.scalatest.{FreeSpec, MustMatchers}
 
 import scalaz.Monoid

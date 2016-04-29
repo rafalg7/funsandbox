@@ -1,8 +1,10 @@
+package sandbox
+
 import org.scalatest.{FreeSpec, MustMatchers}
 
-import scala.concurrent.{Await, Future}
-import scala.concurrent.duration.Duration
 import scala.concurrent.ExecutionContext.Implicits.global
+import scala.concurrent.duration.Duration
+import scala.concurrent.{Await, Future}
 
 class OptionTransformerSpec extends FreeSpec with MustMatchers {
 
